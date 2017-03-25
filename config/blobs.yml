@@ -1,5 +1,5 @@
 ---
-java-buildpack/java-buildpack-v3.14.zip:
-  object_id: 13fb4240-e078-4658-baf3-cbf64824fe1d
-  sha: fb642100976fbff97e6faa2deeafdea47fb510e4
-  size: 181236
+java-buildpack/java-buildpack-v3.14-f292936.zip:
+  object_id: java-buildpack-v3.14-f292936.zip
+  sha: f2929367df8afbafa43f7108e24f268215024022
+  size: 181246
