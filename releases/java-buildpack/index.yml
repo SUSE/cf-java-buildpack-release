@@ -11,6 +11,8 @@ builds:
     version: 4.19.0.1
   dd379a9d-28b3-4e2e-5ddf-53e96920d803:
     version: 4.16.1
+  fd79877e-3f89-404e-5705-1b5564965fea:
+    version: 4.19.1.1
   fe461cad-6fb4-4d77-4539-dd7c85e9f824:
     version: 4.17.1.1
 format-version: "2"
