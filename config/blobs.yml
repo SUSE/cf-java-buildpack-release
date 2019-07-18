@@ -1,5 +1,5 @@
 ---
-java-buildpack/java-buildpack-v4.19.1.1-e77a8d4f.zip:
-  size: 229948
-  object_id: java-buildpack-v4.19.1.1-e77a8d4f.zip
-  sha: e77a8d4f943da99302e23965ee927132daae3ea6
+java-buildpack/java-buildpack-v4.20.0.1-7b3efeee.zip:
+  size: 229951
+  object_id: java-buildpack-v4.20.0.1-7b3efeee.zip
+  sha: 7b3efeeef1845c8a708a0f2b7d4d9b19d6e90e39
