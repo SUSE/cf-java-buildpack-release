@@ -1,0 +1,21 @@
+name: java-buildpack
+version: 4.22.0.1
+commit_hash: e9e52d7
+uncommitted_changes: false
+jobs:
+- name: java-buildpack
+  version: a0df534bd04ef15d036908a48d583b31b4542cf2b0fe6161d89da6a5175db145
+  fingerprint: a0df534bd04ef15d036908a48d583b31b4542cf2b0fe6161d89da6a5175db145
+  sha1: sha256:9eda57c83ec80a5cc92f7f9f19dfee48b1e39ffc6c38e58b8b5fe3e41f3c3b6b
+  packages:
+  - java-buildpack
+packages:
+- name: java-buildpack
+  version: d9e54d9ee63cb9c3cbe51c4331899fb9d8692b15b1a0f37aad2b0c69a96f64d1
+  fingerprint: d9e54d9ee63cb9c3cbe51c4331899fb9d8692b15b1a0f37aad2b0c69a96f64d1
+  sha1: sha256:8e785760fc4cdb62d4afa5601e9884ab55525c098a4e466cb2641202e3f4b88a
+  dependencies: []
+license:
+  version: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  fingerprint: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  sha1: sha256:ddc8f6aa731e716c0b3b8131f7d4452d4b750c912489609d573ba00c952d7a3a
