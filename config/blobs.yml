@@ -1,5 +1,5 @@
 ---
-java-buildpack/java-buildpack-v4.21.0.1-5a69f460.zip:
-  size: 230305
-  object_id: java-buildpack-v4.21.0.1-5a69f460.zip
-  sha: sha256:5a69f46040996f6abffbf9a2137fe6d7a509e4495d3c954c3e56953f215dd23a
+java-buildpack/java-buildpack-v4.22.0.1-cbeef5ca.zip:
+  size: 229993
+  object_id: java-buildpack-v4.22.0.1-cbeef5ca.zip
+  sha: sha256:cbeef5ca9df920d6299d1e7d5b275e7c917db544962c02737372a4d3d67073e0
