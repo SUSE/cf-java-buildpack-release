@@ -1,4 +1,4 @@
 ---
-name: java-buildpack
+name: java-buildpack-sle15
 files:
 - java-buildpack/java-buildpack-v*.zip

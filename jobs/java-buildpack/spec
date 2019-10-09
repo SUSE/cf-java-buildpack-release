@@ -3,6 +3,6 @@ name: java-buildpack
 templates: {}
 
 packages:
-- java-buildpack
+- java-buildpack-sle15
 
 properties: {}
