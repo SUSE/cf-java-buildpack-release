@@ -1,4 +1,6 @@
 builds:
   3690eeff-effd-42de-68b0-3c2e9f9ab74b:
     version: 4.23.0.1
+  607d8937-aca2-4653-7992-5575b66aa9b6:
+    version: 4.24.0.1
 format-version: "2"
