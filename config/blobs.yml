@@ -1,5 +1,5 @@
 ---
-java-buildpack/java-buildpack-v4.31.0.1-a4991aaa.zip:
-  size: 231105
-  object_id: java-buildpack-v4.31.0.1-a4991aaa.zip
-  sha: sha256:a4991aaad699f038259748aabd476197bc469e692be9ecf8253745379323d3d2
+java-buildpack/java-buildpack-v4.31.1.1-7d656db4.zip:
+  size: 231106
+  object_id: java-buildpack-v4.31.1.1-7d656db4.zip
+  sha: sha256:7d656db43b075ed60809436693abbecd1efb7396c34d1a0578779b3abcfc4f26
