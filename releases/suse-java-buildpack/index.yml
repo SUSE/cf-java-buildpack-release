@@ -27,4 +27,6 @@ builds:
     version: 4.30.0.1
   deaa174a-4c7c-4ce5-6b71-e1b476c42cd1:
     version: 4.25.0.3
+  e5170647-3a41-470c-6261-542e891559b0:
+    version: 4.32.1.1
 format-version: "2"
