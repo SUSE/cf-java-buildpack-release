@@ -1,0 +1,21 @@
+name: suse-java-buildpack
+version: 4.33.0.1
+commit_hash: 4db4d5c
+uncommitted_changes: false
+jobs:
+- name: suse-java-buildpack
+  version: 0d31f0c52684916c7d6a37286e478e6585cbab891bb2a8fbbaef9d2a8e60ac4a
+  fingerprint: 0d31f0c52684916c7d6a37286e478e6585cbab891bb2a8fbbaef9d2a8e60ac4a
+  sha1: sha256:822ce346ca068ee285b76bdf1c88ddc18762a9ec65e5273b75a402d6aa68233f
+  packages:
+  - java-buildpack-sle15
+packages:
+- name: java-buildpack-sle15
+  version: cbbec023bf17db3b8a031af3bcfbea881b1cbc29c0da991962da877679dd8622
+  fingerprint: cbbec023bf17db3b8a031af3bcfbea881b1cbc29c0da991962da877679dd8622
+  sha1: sha256:5cb6b4bc536567f95417fcea73e9311dbbcc00c5e0ba8257673fe8ddb30c53a3
+  dependencies: []
+license:
+  version: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  fingerprint: a5d58e13b57713b74cb735242be2d0b4990ce573e570b799d0914d9223442537
+  sha1: sha256:ddc8f6aa731e716c0b3b8131f7d4452d4b750c912489609d573ba00c952d7a3a
