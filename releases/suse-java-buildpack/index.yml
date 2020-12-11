@@ -33,4 +33,6 @@ builds:
     version: 4.25.0.3
   e5170647-3a41-470c-6261-542e891559b0:
     version: 4.32.1.1
+  f1af3def-77f5-4604-7cc0-79542f2c645e:
+    version: 4.35.0.1
 format-version: "2"
